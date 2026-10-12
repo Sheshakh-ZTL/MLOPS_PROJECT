@@ -1,3 +1,3 @@
 print("model")
-accuracy=0.90
+accuracy=0.95
 
